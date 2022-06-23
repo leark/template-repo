@@ -2,14 +2,23 @@
 
 #### (Brief Description of Application)
 
-#### By (Your Name Here)
+#### By Seung Lee
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _HTML_
+* _CSS_
+* _Bootstrap_
+* _jQuery_
+* _npm_
+* _webpack_
+* _eslint_
+* _babel_
+* _html-loader_
+* _style-loader_
+* _css-loader_
+* _file-loader_
+* _jest_
 
 ## Description
 
