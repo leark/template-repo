@@ -37,4 +37,11 @@
 
 ## License
 
+[GNU](/LICENSE-GNU)
+
+Copyright (c) 2022 Seung Lee
+
 ## Contact Information
+
+Seung Lee
+shl7@uw.edu
