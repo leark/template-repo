@@ -20,15 +20,31 @@
 * _file-loader_
 * _jest_
 
+## [GitHub Pages Link](https://leark.github.io/template-repo)
 ## Description
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+1. Open Git Bash if on Windows and terminal if on Mac
+2. Run the command
+
+    ``git clone https://github.com/leark/template-repo.git``
+
+3. Run the command
+
+    ``cd template-repo
+
+4. Run the command
+
+    ``npm init -y``
+
+5. Run the command
+
+    ``npm install``
+
+6. Run the command
+
+    ``npm run start``
 
 ## Known Bugs
 
