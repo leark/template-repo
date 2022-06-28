@@ -32,7 +32,7 @@
 
 3. Run the command
 
-    ``cd template-repo
+    ``cd template-repo``
 
 4. Run the command
 
